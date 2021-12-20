@@ -4,9 +4,7 @@
 이미지 위치
 
 data/coco
-
 ㄴtrain2017
-
 ㄴval2017
 
 batch=4, 2epoch 실행
